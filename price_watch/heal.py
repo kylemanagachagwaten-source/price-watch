@@ -1,0 +1,10 @@
+SELECTOR_CACHE = {}
+
+
+def heal_selector(html, field):
+    if cached := SELECTOR_CACHE.get(field):
+        return cached
+    sel = ask_model(html, field)
+    assert_valid(sel, html)
+    SELECTOR_CACHE[field] = sel
+    return sel
