@@ -5,3 +5,4 @@ All notable changes to price-watch.
 - load settings from env with sane defaults
 - basic product spider with css selectors
 - add pre-commit with ruff and black
+- randomise user-agent and accept-language per session
