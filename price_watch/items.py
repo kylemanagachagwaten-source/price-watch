@@ -6,3 +6,4 @@ def to_decimal(raw):
         return Decimal(raw.replace(",", ""))
     except (InvalidOperation, AttributeError):
         return None
+# cap concurrency with a semaphore
