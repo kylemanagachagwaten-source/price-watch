@@ -11,3 +11,4 @@ class PriceSpider(scrapy.Spider):
             price = card.css(".price::text").re_first(r"[\d,.]+")
             if price and self.changed(sku, price):
                 yield {"sku": sku, "price": to_decimal(price)}
+# cap retries so a hard block stops spinning
