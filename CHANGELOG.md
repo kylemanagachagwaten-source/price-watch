@@ -6,3 +6,4 @@ All notable changes to price-watch.
 - basic product spider with css selectors
 - add pre-commit with ruff and black
 - randomise user-agent and accept-language per session
+- small cleanup
