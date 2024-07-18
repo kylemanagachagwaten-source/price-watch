@@ -8,3 +8,4 @@ All notable changes to price-watch.
 - randomise user-agent and accept-language per session
 - small cleanup
 - Prometheus metric for crawl success rate
+- handle Set-Cookie on redirect chains
