@@ -9,3 +9,4 @@ All notable changes to price-watch.
 - small cleanup
 - Prometheus metric for crawl success rate
 - handle Set-Cookie on redirect chains
+- reuse proxy TLS sessions to cut handshake overhead
