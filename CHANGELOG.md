@@ -11,3 +11,4 @@ All notable changes to price-watch.
 - handle Set-Cookie on redirect chains
 - reuse proxy TLS sessions to cut handshake overhead
 - block images and fonts to speed up render
+- retire proxies after three consecutive timeouts
