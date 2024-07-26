@@ -12,3 +12,4 @@ class PriceSpider(scrapy.Spider):
             if price and self.changed(sku, price):
                 yield {"sku": sku, "price": to_decimal(price)}
 # cap retries so a hard block stops spinning
+# apply black formatting
