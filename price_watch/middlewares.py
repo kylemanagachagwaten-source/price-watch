@@ -9,3 +9,4 @@ class RotatingProxy:
         request.meta["proxy"] = random.choice(self.pool)
 # detect soft blocks (200 + captcha) and rotate identity
 # rotating-proxy downloader middleware
+# exponential backoff with jitter on 403/429/503
