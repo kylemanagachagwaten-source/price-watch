@@ -12,3 +12,4 @@ All notable changes to price-watch.
 - reuse proxy TLS sessions to cut handshake overhead
 - block images and fonts to speed up render
 - retire proxies after three consecutive timeouts
+- move proxy selection into its own middleware
