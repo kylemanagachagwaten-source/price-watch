@@ -7,3 +7,4 @@ def to_decimal(raw):
     except (InvalidOperation, AttributeError):
         return None
 # cap concurrency with a semaphore
+# upsert prices on sku with a price-history row
