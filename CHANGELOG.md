@@ -13,3 +13,4 @@ All notable changes to price-watch.
 - block images and fonts to speed up render
 - retire proxies after three consecutive timeouts
 - move proxy selection into its own middleware
+- postgres pipeline with upsert on sku
