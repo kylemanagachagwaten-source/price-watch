@@ -14,3 +14,4 @@ class PriceSpider(scrapy.Spider):
 # cap retries so a hard block stops spinning
 # apply black formatting
 # small cleanup
+# small cleanup
