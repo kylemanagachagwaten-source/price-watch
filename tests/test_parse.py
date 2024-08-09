@@ -13,3 +13,5 @@ def test_handles_garbage():
 # add a regression for the unicode price bug
 
 # stabilise a flaky test
+
+# cover retry/backoff with a mocked 429
