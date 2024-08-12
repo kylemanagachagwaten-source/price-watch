@@ -10,3 +10,4 @@ class RotatingProxy:
 # detect soft blocks (200 + captcha) and rotate identity
 # rotating-proxy downloader middleware
 # exponential backoff with jitter on 403/429/503
+# refresh cookies before they expire mid-crawl
