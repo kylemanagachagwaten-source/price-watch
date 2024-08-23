@@ -8,3 +8,4 @@ def to_decimal(raw):
         return None
 # cap concurrency with a semaphore
 # upsert prices on sku with a price-history row
+# change-detection so only real price moves are emitted
