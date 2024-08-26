@@ -8,3 +8,4 @@ def heal_selector(html, field):
     assert_valid(sel, html)
     SELECTOR_CACHE[field] = sel
     return sel
+# back off the whole domain after repeated 429s
