@@ -15,3 +15,4 @@ class PriceSpider(scrapy.Spider):
 # apply black formatting
 # small cleanup
 # small cleanup
+# apply black formatting
