@@ -15,3 +15,4 @@ All notable changes to price-watch.
 - move proxy selection into its own middleware
 - postgres pipeline with upsert on sku
 - handle pagination that loops back to page 1
+- small cleanup
