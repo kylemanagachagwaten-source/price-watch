@@ -9,3 +9,4 @@ jobs:
       - run: pytest -q
 # cache pip and the Playwright browser
 # run pytest and ruff on every push
+# upload coverage on pull requests
