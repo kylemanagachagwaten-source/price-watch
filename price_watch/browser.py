@@ -3,3 +3,4 @@ async def render(page, url):
     return await page.content()
 # persist storage state to skip the re-login
 # skip unchanged pages with an ETag check
+# handle empty result pages without erroring
