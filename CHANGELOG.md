@@ -18,3 +18,4 @@ All notable changes to price-watch.
 - small cleanup
 - stream rows to disk instead of buffering
 - share a cookie jar across spider requests
+- export to Parquet alongside CSV
