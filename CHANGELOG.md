@@ -20,3 +20,4 @@ All notable changes to price-watch.
 - share a cookie jar across spider requests
 - export to Parquet alongside CSV
 - stop reusing a proxy that just returned a block page
+- parse unicode and comma thousands separators
