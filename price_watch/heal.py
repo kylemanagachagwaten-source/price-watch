@@ -9,3 +9,4 @@ def heal_selector(html, field):
     SELECTOR_CACHE[field] = sel
     return sel
 # back off the whole domain after repeated 429s
+# cache healed selectors so it's one call, not per run
