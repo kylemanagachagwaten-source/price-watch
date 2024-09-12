@@ -21,3 +21,4 @@ All notable changes to price-watch.
 - export to Parquet alongside CSV
 - stop reusing a proxy that just returned a block page
 - parse unicode and comma thousands separators
+- guard against None in the geocode lookup
