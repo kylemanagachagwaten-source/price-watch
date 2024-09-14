@@ -22,3 +22,4 @@ All notable changes to price-watch.
 - stop reusing a proxy that just returned a block page
 - parse unicode and comma thousands separators
 - guard against None in the geocode lookup
+- strip currency symbols before Decimal conversion
