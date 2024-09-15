@@ -23,3 +23,4 @@ All notable changes to price-watch.
 - parse unicode and comma thousands separators
 - guard against None in the geocode lookup
 - strip currency symbols before Decimal conversion
+- write a JSONL feed for downstream consumers
