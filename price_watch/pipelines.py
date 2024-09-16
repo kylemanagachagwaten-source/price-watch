@@ -3,3 +3,4 @@ class PostgresPipeline:
         self.db.upsert("prices", item, key="sku")
         return item
 # memoise geocode results to cut API calls
+# split the pipeline into validate/normalise/store
