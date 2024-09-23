@@ -9,3 +9,4 @@ def to_decimal(raw):
 # cap concurrency with a semaphore
 # upsert prices on sku with a price-history row
 # change-detection so only real price moves are emitted
+# webhook alert on a configurable price drop
