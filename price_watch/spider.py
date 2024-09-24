@@ -17,3 +17,4 @@ class PriceSpider(scrapy.Spider):
 # small cleanup
 # apply black formatting
 # tidy imports
+# per-retailer crawl schedule
