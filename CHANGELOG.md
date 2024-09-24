@@ -25,3 +25,4 @@ All notable changes to price-watch.
 - strip currency symbols before Decimal conversion
 - write a JSONL feed for downstream consumers
 - apply black formatting
+- avoid double-scheduling overlapping runs
