@@ -26,3 +26,4 @@ All notable changes to price-watch.
 - write a JSONL feed for downstream consumers
 - apply black formatting
 - avoid double-scheduling overlapping runs
+- switch detail fetches to async httpx
