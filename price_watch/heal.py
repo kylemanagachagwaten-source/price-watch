@@ -11,3 +11,4 @@ def heal_selector(html, field):
 # back off the whole domain after repeated 429s
 # cache healed selectors so it's one call, not per run
 # open a PR with the healed selector and a regression test
+# self-heal broken selectors via the model on a miss
