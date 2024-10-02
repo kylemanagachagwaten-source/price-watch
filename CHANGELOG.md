@@ -27,3 +27,4 @@ All notable changes to price-watch.
 - apply black formatting
 - avoid double-scheduling overlapping runs
 - switch detail fetches to async httpx
+- extract the heal loop into scrapekit.heal
