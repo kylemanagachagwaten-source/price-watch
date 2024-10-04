@@ -29,3 +29,4 @@ All notable changes to price-watch.
 - switch detail fetches to async httpx
 - extract the heal loop into scrapekit.heal
 - connection-pool the httpx client
+- remove dead code
