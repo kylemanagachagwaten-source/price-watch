@@ -28,3 +28,4 @@ All notable changes to price-watch.
 - avoid double-scheduling overlapping runs
 - switch detail fetches to async httpx
 - extract the heal loop into scrapekit.heal
+- connection-pool the httpx client
