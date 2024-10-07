@@ -30,3 +30,4 @@ All notable changes to price-watch.
 - extract the heal loop into scrapekit.heal
 - connection-pool the httpx client
 - remove dead code
+- daily digest of the biggest movers
