@@ -11,3 +11,4 @@ residential proxy rotation, change-detection alerts. ~2,000 SKUs across 5 retail
 ## Notes
 - clarify a comment
 - clarify a comment
+- add architecture notes to the README
