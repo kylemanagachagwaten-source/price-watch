@@ -32,3 +32,4 @@ All notable changes to price-watch.
 - remove dead code
 - daily digest of the biggest movers
 - rotate proxy on 429 instead of failing the whole batch
+- respect the Retry-After header when present
