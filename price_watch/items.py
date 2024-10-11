@@ -11,3 +11,4 @@ def to_decimal(raw):
 # change-detection so only real price moves are emitted
 # webhook alert on a configurable price drop
 # normalise SKUs to uppercase before dedupe
+# dedupe on sku, not on row index
