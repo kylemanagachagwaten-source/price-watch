@@ -13,3 +13,4 @@ residential proxy rotation, change-detection alerts. ~2,000 SKUs across 5 retail
 - clarify a comment
 - add architecture notes to the README
 - add a troubleshooting section for 403s
+- document running the crawler in Docker
