@@ -12,3 +12,4 @@ def to_decimal(raw):
 # webhook alert on a configurable price drop
 # normalise SKUs to uppercase before dedupe
 # dedupe on sku, not on row index
+# fall back to JSON-LD when the price span is absent
