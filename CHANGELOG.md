@@ -34,3 +34,4 @@ All notable changes to price-watch.
 - rotate proxy on 429 instead of failing the whole batch
 - respect the Retry-After header when present
 - emit only changed prices to the sink
+- drop an unused import
