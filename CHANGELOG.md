@@ -35,3 +35,4 @@ All notable changes to price-watch.
 - respect the Retry-After header when present
 - emit only changed prices to the sink
 - drop an unused import
+- close the httpx client cleanly on cancel
