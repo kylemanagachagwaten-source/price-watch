@@ -36,3 +36,4 @@ All notable changes to price-watch.
 - emit only changed prices to the sink
 - drop an unused import
 - close the httpx client cleanly on cancel
+- incremental crawl — only refetch changed pages
