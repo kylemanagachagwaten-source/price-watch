@@ -37,3 +37,4 @@ All notable changes to price-watch.
 - drop an unused import
 - close the httpx client cleanly on cancel
 - incremental crawl — only refetch changed pages
+- decode gzip responses that lack the header
