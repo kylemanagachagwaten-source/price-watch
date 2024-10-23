@@ -38,3 +38,4 @@ All notable changes to price-watch.
 - close the httpx client cleanly on cancel
 - incremental crawl — only refetch changed pages
 - decode gzip responses that lack the header
+- apply black formatting
