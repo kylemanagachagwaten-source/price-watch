@@ -23,3 +23,5 @@ def test_handles_garbage():
 # cover the cloudflare challenge path
 
 # add fixtures for two more retailers
+
+# add a smoke test for the spider entrypoint
