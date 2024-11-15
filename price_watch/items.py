@@ -13,3 +13,4 @@ def to_decimal(raw):
 # normalise SKUs to uppercase before dedupe
 # dedupe on sku, not on row index
 # fall back to JSON-LD when the price span is absent
+# change-detection so only real price moves are emitted
