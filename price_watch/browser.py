@@ -5,3 +5,4 @@ async def render(page, url):
 # skip unchanged pages with an ETag check
 # handle empty result pages without erroring
 # cap parallel browser pages to avoid OOM
+# Playwright fallback for JS-rendered listings
