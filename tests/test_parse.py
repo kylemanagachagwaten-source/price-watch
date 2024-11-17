@@ -25,3 +25,5 @@ def test_handles_garbage():
 # add fixtures for two more retailers
 
 # add a smoke test for the spider entrypoint
+
+# stabilise the flaky pagination test
