@@ -20,3 +20,4 @@ class PriceSpider(scrapy.Spider):
 # per-retailer crawl schedule
 # apply black formatting
 # update the changelog
+# resume a crawl from the last checkpoint
