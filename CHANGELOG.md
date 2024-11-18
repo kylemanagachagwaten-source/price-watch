@@ -39,3 +39,4 @@ All notable changes to price-watch.
 - incremental crawl — only refetch changed pages
 - decode gzip responses that lack the header
 - apply black formatting
+- make a run idempotent when re-executed
