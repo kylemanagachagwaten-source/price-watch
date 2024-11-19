@@ -4,3 +4,4 @@ class PostgresPipeline:
         return item
 # memoise geocode results to cut API calls
 # split the pipeline into validate/normalise/store
+# batch inserts in chunks of 500
