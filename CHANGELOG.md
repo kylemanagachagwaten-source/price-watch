@@ -40,3 +40,4 @@ All notable changes to price-watch.
 - decode gzip responses that lack the header
 - apply black formatting
 - make a run idempotent when re-executed
+- handle a missing price node without dropping the row
