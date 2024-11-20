@@ -41,3 +41,4 @@ All notable changes to price-watch.
 - apply black formatting
 - make a run idempotent when re-executed
 - handle a missing price node without dropping the row
+- rotate the TLS fingerprint alongside the proxy
