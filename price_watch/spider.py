@@ -21,3 +21,4 @@ class PriceSpider(scrapy.Spider):
 # apply black formatting
 # update the changelog
 # resume a crawl from the last checkpoint
+# structured JSON logging with a per-run id
