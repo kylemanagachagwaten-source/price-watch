@@ -42,3 +42,4 @@ All notable changes to price-watch.
 - make a run idempotent when re-executed
 - handle a missing price node without dropping the row
 - rotate the TLS fingerprint alongside the proxy
+- add a token-bucket rate limiter per host
