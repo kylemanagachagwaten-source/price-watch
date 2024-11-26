@@ -12,3 +12,4 @@ def heal_selector(html, field):
 # cache healed selectors so it's one call, not per run
 # open a PR with the healed selector and a regression test
 # self-heal broken selectors via the model on a miss
+# validate model-suggested selectors against the live DOM
