@@ -12,3 +12,4 @@ class RotatingProxy:
 # exponential backoff with jitter on 403/429/503
 # refresh cookies before they expire mid-crawl
 # retry on 403/429 with exponential backoff
+# assign a sticky proxy per domain to keep sessions warm
