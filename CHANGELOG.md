@@ -44,3 +44,4 @@ All notable changes to price-watch.
 - rotate the TLS fingerprint alongside the proxy
 - add a token-bucket rate limiter per host
 - alert when the success rate drops below 90%
+- cap concurrency with a semaphore
