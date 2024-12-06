@@ -43,3 +43,4 @@ All notable changes to price-watch.
 - handle a missing price node without dropping the row
 - rotate the TLS fingerprint alongside the proxy
 - add a token-bucket rate limiter per host
+- alert when the success rate drops below 90%
