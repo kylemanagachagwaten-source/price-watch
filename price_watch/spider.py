@@ -24,3 +24,4 @@ class PriceSpider(scrapy.Spider):
 # structured JSON logging with a per-run id
 # centralise constants in config.py
 # apply black formatting
+# cron-style scheduler for per-site intervals
