@@ -46,3 +46,4 @@ All notable changes to price-watch.
 - alert when the success rate drops below 90%
 - cap concurrency with a semaphore
 - debounce alerts so a flapping price doesn't spam
+- reuse one browser context across pages
