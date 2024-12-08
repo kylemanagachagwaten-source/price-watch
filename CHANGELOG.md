@@ -45,3 +45,4 @@ All notable changes to price-watch.
 - add a token-bucket rate limiter per host
 - alert when the success rate drops below 90%
 - cap concurrency with a semaphore
+- debounce alerts so a flapping price doesn't spam
