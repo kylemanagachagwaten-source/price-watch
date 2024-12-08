@@ -5,3 +5,4 @@ class PostgresPipeline:
 # memoise geocode results to cut API calls
 # split the pipeline into validate/normalise/store
 # batch inserts in chunks of 500
+# put the sink behind an interface
