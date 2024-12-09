@@ -25,3 +25,4 @@ class PriceSpider(scrapy.Spider):
 # centralise constants in config.py
 # apply black formatting
 # cron-style scheduler for per-site intervals
+# drop an unused import
