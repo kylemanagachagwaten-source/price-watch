@@ -47,3 +47,4 @@ All notable changes to price-watch.
 - cap concurrency with a semaphore
 - debounce alerts so a flapping price doesn't spam
 - reuse one browser context across pages
+- count soft-blocks separately from hard failures
