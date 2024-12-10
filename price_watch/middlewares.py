@@ -13,3 +13,4 @@ class RotatingProxy:
 # refresh cookies before they expire mid-crawl
 # retry on 403/429 with exponential backoff
 # assign a sticky proxy per domain to keep sessions warm
+# detect and skip captcha interstitials
