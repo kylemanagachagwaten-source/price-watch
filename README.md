@@ -16,3 +16,4 @@ residential proxy rotation, change-detection alerts. ~2,000 SKUs across 5 retail
 - document running the crawler in Docker
 - document the proxy pool env vars
 - clarify a comment
+- explain the self-heal flow in the README
