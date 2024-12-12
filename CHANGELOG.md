@@ -48,3 +48,4 @@ All notable changes to price-watch.
 - debounce alerts so a flapping price doesn't spam
 - reuse one browser context across pages
 - count soft-blocks separately from hard failures
+- skip honeypot rows hidden with display:none
