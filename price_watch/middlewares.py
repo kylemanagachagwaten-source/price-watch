@@ -15,3 +15,4 @@ class RotatingProxy:
 # assign a sticky proxy per domain to keep sessions warm
 # detect and skip captcha interstitials
 # add residential proxy pool with per-region routing
+# weight proxy selection by recent success rate
