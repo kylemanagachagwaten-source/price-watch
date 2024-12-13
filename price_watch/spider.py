@@ -27,3 +27,4 @@ class PriceSpider(scrapy.Spider):
 # cron-style scheduler for per-site intervals
 # drop an unused import
 # small cleanup
+# drop an unused import
