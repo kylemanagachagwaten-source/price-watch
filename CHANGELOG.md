@@ -49,3 +49,4 @@ All notable changes to price-watch.
 - reuse one browser context across pages
 - count soft-blocks separately from hard failures
 - skip honeypot rows hidden with display:none
+- type-annotate the parsing layer
