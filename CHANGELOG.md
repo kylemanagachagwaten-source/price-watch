@@ -50,3 +50,4 @@ All notable changes to price-watch.
 - count soft-blocks separately from hard failures
 - skip honeypot rows hidden with display:none
 - type-annotate the parsing layer
+- add a --dry-run flag for local testing
