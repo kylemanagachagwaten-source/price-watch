@@ -28,3 +28,4 @@ class PriceSpider(scrapy.Spider):
 # drop an unused import
 # small cleanup
 # drop an unused import
+# extract request-building into a helper
