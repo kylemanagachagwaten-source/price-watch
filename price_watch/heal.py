@@ -13,3 +13,4 @@ def heal_selector(html, field):
 # open a PR with the healed selector and a regression test
 # self-heal broken selectors via the model on a miss
 # validate model-suggested selectors against the live DOM
+# fall back to the last-known-good selector on heal failure
