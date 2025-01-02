@@ -53,3 +53,4 @@ All notable changes to price-watch.
 - add a --dry-run flag for local testing
 - flush the writer on shutdown so no rows are lost
 - geocode listing addresses with a cached client
+- wait for networkidle before reading the DOM
