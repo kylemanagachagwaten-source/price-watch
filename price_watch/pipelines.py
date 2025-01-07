@@ -6,3 +6,4 @@ class PostgresPipeline:
 # split the pipeline into validate/normalise/store
 # batch inserts in chunks of 500
 # put the sink behind an interface
+# use a connection pool instead of per-item connects
