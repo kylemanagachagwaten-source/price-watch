@@ -15,3 +15,4 @@ def to_decimal(raw):
 # fall back to JSON-LD when the price span is absent
 # change-detection so only real price moves are emitted
 # extract stock status alongside price
+# debounce alerts so a flapping price doesn't spam
