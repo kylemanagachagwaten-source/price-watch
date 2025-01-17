@@ -56,3 +56,4 @@ All notable changes to price-watch.
 - wait for networkidle before reading the DOM
 - move price parsing into items.to_decimal
 - handle pagination that loops back to page 1
+- extract request-building into a helper
