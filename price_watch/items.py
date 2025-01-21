@@ -16,3 +16,4 @@ def to_decimal(raw):
 # change-detection so only real price moves are emitted
 # extract stock status alongside price
 # debounce alerts so a flapping price doesn't spam
+# handle a missing price node without dropping the row
