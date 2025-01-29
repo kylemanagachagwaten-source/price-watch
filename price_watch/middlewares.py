@@ -16,3 +16,4 @@ class RotatingProxy:
 # detect and skip captcha interstitials
 # add residential proxy pool with per-region routing
 # weight proxy selection by recent success rate
+# weight proxy selection by recent success rate
