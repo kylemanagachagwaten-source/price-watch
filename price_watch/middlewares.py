@@ -17,3 +17,4 @@ class RotatingProxy:
 # add residential proxy pool with per-region routing
 # weight proxy selection by recent success rate
 # weight proxy selection by recent success rate
+# respect the Retry-After header when present
