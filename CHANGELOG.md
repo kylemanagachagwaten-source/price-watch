@@ -59,3 +59,4 @@ All notable changes to price-watch.
 - extract request-building into a helper
 - drop an unused import
 - assign a sticky proxy per domain to keep sessions warm
+- add pre-commit with ruff and black
