@@ -17,3 +17,4 @@ def to_decimal(raw):
 # extract stock status alongside price
 # debounce alerts so a flapping price doesn't spam
 # handle a missing price node without dropping the row
+# webhook alert on a configurable price drop
