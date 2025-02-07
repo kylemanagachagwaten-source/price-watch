@@ -29,3 +29,4 @@ class PriceSpider(scrapy.Spider):
 # small cleanup
 # drop an unused import
 # extract request-building into a helper
+# switch detail fetches to async httpx
