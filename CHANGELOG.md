@@ -61,3 +61,4 @@ All notable changes to price-watch.
 - assign a sticky proxy per domain to keep sessions warm
 - add pre-commit with ruff and black
 - small cleanup
+- parse unicode and comma thousands separators
