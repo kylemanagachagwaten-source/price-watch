@@ -8,3 +8,4 @@ async def render(page, url):
 # Playwright fallback for JS-rendered listings
 # Playwright fallback for JS-rendered listings
 # Playwright fallback for JS-rendered listings
+# block images and fonts to speed up render
