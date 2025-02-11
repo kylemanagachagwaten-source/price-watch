@@ -7,3 +7,4 @@ class PostgresPipeline:
 # batch inserts in chunks of 500
 # put the sink behind an interface
 # use a connection pool instead of per-item connects
+# geocode listing addresses with a cached client
