@@ -62,3 +62,4 @@ All notable changes to price-watch.
 - add pre-commit with ruff and black
 - small cleanup
 - parse unicode and comma thousands separators
+- batch inserts in chunks of 500
