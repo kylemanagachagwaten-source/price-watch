@@ -31,3 +31,4 @@ class PriceSpider(scrapy.Spider):
 # extract request-building into a helper
 # switch detail fetches to async httpx
 # update the changelog
+# apply black formatting
