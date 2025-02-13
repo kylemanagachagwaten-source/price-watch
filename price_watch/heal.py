@@ -14,3 +14,4 @@ def heal_selector(html, field):
 # self-heal broken selectors via the model on a miss
 # validate model-suggested selectors against the live DOM
 # fall back to the last-known-good selector on heal failure
+# cache healed selectors so it's one call, not per run
