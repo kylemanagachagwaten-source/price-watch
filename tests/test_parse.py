@@ -31,3 +31,5 @@ def test_handles_garbage():
 # stabilise a flaky test
 
 # stabilise a flaky test
+
+# add a regression for the unicode price bug
