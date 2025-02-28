@@ -63,3 +63,4 @@ All notable changes to price-watch.
 - small cleanup
 - parse unicode and comma thousands separators
 - batch inserts in chunks of 500
+- upsert prices on sku with a price-history row
