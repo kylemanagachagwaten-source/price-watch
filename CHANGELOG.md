@@ -65,3 +65,4 @@ All notable changes to price-watch.
 - batch inserts in chunks of 500
 - upsert prices on sku with a price-history row
 - detect and skip captcha interstitials
+- fall back to the last-known-good selector on heal failure
