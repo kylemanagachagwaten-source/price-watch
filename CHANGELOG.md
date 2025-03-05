@@ -66,3 +66,4 @@ All notable changes to price-watch.
 - upsert prices on sku with a price-history row
 - detect and skip captcha interstitials
 - fall back to the last-known-good selector on heal failure
+- use a connection pool instead of per-item connects
