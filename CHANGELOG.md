@@ -68,3 +68,4 @@ All notable changes to price-watch.
 - fall back to the last-known-good selector on heal failure
 - use a connection pool instead of per-item connects
 - resume a crawl from the last checkpoint
+- make a run idempotent when re-executed
