@@ -32,3 +32,4 @@ class PriceSpider(scrapy.Spider):
 # switch detail fetches to async httpx
 # update the changelog
 # apply black formatting
+# daily digest of the biggest movers
