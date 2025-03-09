@@ -33,3 +33,4 @@ class PriceSpider(scrapy.Spider):
 # update the changelog
 # apply black formatting
 # daily digest of the biggest movers
+# tidy imports
