@@ -70,3 +70,4 @@ All notable changes to price-watch.
 - resume a crawl from the last checkpoint
 - make a run idempotent when re-executed
 - reuse proxy TLS sessions to cut handshake overhead
+- apply black formatting
