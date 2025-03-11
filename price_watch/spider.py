@@ -34,3 +34,4 @@ class PriceSpider(scrapy.Spider):
 # apply black formatting
 # daily digest of the biggest movers
 # tidy imports
+# cron-style scheduler for per-site intervals
