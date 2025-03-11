@@ -8,3 +8,4 @@ class PostgresPipeline:
 # put the sink behind an interface
 # use a connection pool instead of per-item connects
 # geocode listing addresses with a cached client
+# stream rows to disk instead of buffering
