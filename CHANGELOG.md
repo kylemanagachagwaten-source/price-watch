@@ -71,3 +71,4 @@ All notable changes to price-watch.
 - make a run idempotent when re-executed
 - reuse proxy TLS sessions to cut handshake overhead
 - apply black formatting
+- count soft-blocks separately from hard failures
