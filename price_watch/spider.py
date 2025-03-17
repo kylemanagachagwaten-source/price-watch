@@ -38,3 +38,4 @@ class PriceSpider(scrapy.Spider):
 # apply black formatting
 # add a --dry-run flag for local testing
 # remove dead code
+# update the changelog
