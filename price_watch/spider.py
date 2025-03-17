@@ -37,3 +37,4 @@ class PriceSpider(scrapy.Spider):
 # cron-style scheduler for per-site intervals
 # apply black formatting
 # add a --dry-run flag for local testing
+# remove dead code
