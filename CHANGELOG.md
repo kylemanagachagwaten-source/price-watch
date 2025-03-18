@@ -73,3 +73,4 @@ All notable changes to price-watch.
 - apply black formatting
 - count soft-blocks separately from hard failures
 - exponential backoff with jitter on 403/429/503
+- add residential proxy pool with per-region routing
