@@ -39,3 +39,4 @@ class PriceSpider(scrapy.Spider):
 # add a --dry-run flag for local testing
 # remove dead code
 # update the changelog
+# centralise constants in config.py
