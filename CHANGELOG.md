@@ -76,3 +76,4 @@ All notable changes to price-watch.
 - add residential proxy pool with per-region routing
 - tidy imports
 - remove dead code
+- remove dead code
