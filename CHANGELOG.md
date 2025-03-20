@@ -77,3 +77,4 @@ All notable changes to price-watch.
 - tidy imports
 - remove dead code
 - remove dead code
+- drop an unused import
