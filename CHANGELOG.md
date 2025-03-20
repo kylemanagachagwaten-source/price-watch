@@ -75,3 +75,4 @@ All notable changes to price-watch.
 - exponential backoff with jitter on 403/429/503
 - add residential proxy pool with per-region routing
 - tidy imports
+- remove dead code
