@@ -78,3 +78,4 @@ All notable changes to price-watch.
 - remove dead code
 - remove dead code
 - drop an unused import
+- randomise user-agent and accept-language per session
