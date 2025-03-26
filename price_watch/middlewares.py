@@ -20,3 +20,4 @@ class RotatingProxy:
 # respect the Retry-After header when present
 # rotate proxy on 429 instead of failing the whole batch
 # handle Set-Cookie on redirect chains
+# Prometheus metric for crawl success rate
