@@ -80,3 +80,4 @@ All notable changes to price-watch.
 - drop an unused import
 - randomise user-agent and accept-language per session
 - flush the writer on shutdown so no rows are lost
+- open a PR with the healed selector and a regression test
