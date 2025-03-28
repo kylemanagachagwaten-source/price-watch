@@ -81,3 +81,4 @@ All notable changes to price-watch.
 - randomise user-agent and accept-language per session
 - flush the writer on shutdown so no rows are lost
 - open a PR with the healed selector and a regression test
+- split the pipeline into validate/normalise/store
