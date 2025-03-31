@@ -9,3 +9,4 @@ class PostgresPipeline:
 # use a connection pool instead of per-item connects
 # geocode listing addresses with a cached client
 # stream rows to disk instead of buffering
+# guard against None in the geocode lookup
