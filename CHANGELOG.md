@@ -83,3 +83,4 @@ All notable changes to price-watch.
 - open a PR with the healed selector and a regression test
 - split the pipeline into validate/normalise/store
 - fall back to JSON-LD when the price span is absent
+- webhook alert on a configurable price drop
