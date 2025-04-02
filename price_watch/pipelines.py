@@ -10,3 +10,4 @@ class PostgresPipeline:
 # geocode listing addresses with a cached client
 # stream rows to disk instead of buffering
 # guard against None in the geocode lookup
+# write a JSONL feed for downstream consumers
