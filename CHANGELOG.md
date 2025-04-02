@@ -84,3 +84,4 @@ All notable changes to price-watch.
 - split the pipeline into validate/normalise/store
 - fall back to JSON-LD when the price span is absent
 - webhook alert on a configurable price drop
+- refresh cookies before they expire mid-crawl
