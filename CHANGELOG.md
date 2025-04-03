@@ -85,3 +85,4 @@ All notable changes to price-watch.
 - fall back to JSON-LD when the price span is absent
 - webhook alert on a configurable price drop
 - refresh cookies before they expire mid-crawl
+- drop an unused import
