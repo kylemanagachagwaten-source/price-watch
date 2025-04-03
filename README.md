@@ -27,3 +27,4 @@ residential proxy rotation, change-detection alerts. ~2,000 SKUs across 5 retail
 - fix a typo in the README
 - fix a typo in the README
 - explain the self-heal flow in the README
+- fix a typo in the README
