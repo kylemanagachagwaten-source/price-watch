@@ -86,3 +86,4 @@ All notable changes to price-watch.
 - webhook alert on a configurable price drop
 - refresh cookies before they expire mid-crawl
 - drop an unused import
+- per-retailer crawl schedule
