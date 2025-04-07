@@ -22,3 +22,4 @@ class RotatingProxy:
 # handle Set-Cookie on redirect chains
 # Prometheus metric for crawl success rate
 # share a cookie jar across spider requests
+# detect soft blocks (200 + captcha) and rotate identity
