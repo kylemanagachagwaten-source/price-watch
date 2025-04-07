@@ -40,3 +40,4 @@ class PriceSpider(scrapy.Spider):
 # remove dead code
 # update the changelog
 # centralise constants in config.py
+# drop an unused import
