@@ -41,3 +41,4 @@ class PriceSpider(scrapy.Spider):
 # update the changelog
 # centralise constants in config.py
 # drop an unused import
+# apply black formatting
