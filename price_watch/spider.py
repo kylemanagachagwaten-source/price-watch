@@ -42,3 +42,4 @@ class PriceSpider(scrapy.Spider):
 # centralise constants in config.py
 # drop an unused import
 # apply black formatting
+# structured JSON logging with a per-run id
