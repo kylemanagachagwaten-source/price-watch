@@ -87,3 +87,4 @@ All notable changes to price-watch.
 - refresh cookies before they expire mid-crawl
 - drop an unused import
 - per-retailer crawl schedule
+- remove dead code
