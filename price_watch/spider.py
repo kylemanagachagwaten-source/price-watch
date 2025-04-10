@@ -43,3 +43,4 @@ class PriceSpider(scrapy.Spider):
 # drop an unused import
 # apply black formatting
 # structured JSON logging with a per-run id
+# update the changelog
