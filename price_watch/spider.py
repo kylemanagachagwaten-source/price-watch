@@ -44,3 +44,4 @@ class PriceSpider(scrapy.Spider):
 # apply black formatting
 # structured JSON logging with a per-run id
 # update the changelog
+# cap retries so a hard block stops spinning
