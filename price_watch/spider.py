@@ -45,3 +45,4 @@ class PriceSpider(scrapy.Spider):
 # structured JSON logging with a per-run id
 # update the changelog
 # cap retries so a hard block stops spinning
+# switch detail fetches to async httpx
