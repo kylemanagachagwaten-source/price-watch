@@ -43,3 +43,5 @@ def test_handles_garbage():
 # cover the cloudflare challenge path
 
 # add fixtures for two more retailers
+
+# stabilise a flaky test
