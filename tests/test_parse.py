@@ -45,3 +45,5 @@ def test_handles_garbage():
 # add fixtures for two more retailers
 
 # stabilise a flaky test
+
+# stabilise a flaky test
