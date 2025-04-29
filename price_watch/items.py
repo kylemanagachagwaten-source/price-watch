@@ -18,3 +18,4 @@ def to_decimal(raw):
 # debounce alerts so a flapping price doesn't spam
 # handle a missing price node without dropping the row
 # webhook alert on a configurable price drop
+# cap concurrency with a semaphore
