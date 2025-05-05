@@ -17,3 +17,4 @@ jobs:
 # upload coverage on pull requests
 # cache pip and the Playwright browser
 # minor workflow tweak
+# minor workflow tweak
