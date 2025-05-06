@@ -88,3 +88,4 @@ All notable changes to price-watch.
 - drop an unused import
 - per-retailer crawl schedule
 - remove dead code
+- put the sink behind an interface
