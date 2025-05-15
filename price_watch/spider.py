@@ -47,3 +47,4 @@ class PriceSpider(scrapy.Spider):
 # cap retries so a hard block stops spinning
 # switch detail fetches to async httpx
 # small cleanup
+# drop an unused import
