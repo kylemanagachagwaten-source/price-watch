@@ -91,3 +91,4 @@ All notable changes to price-watch.
 - put the sink behind an interface
 - tidy imports
 - type-annotate the parsing layer
+- persist storage state to skip the re-login
