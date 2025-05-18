@@ -90,3 +90,4 @@ All notable changes to price-watch.
 - remove dead code
 - put the sink behind an interface
 - tidy imports
+- type-annotate the parsing layer
