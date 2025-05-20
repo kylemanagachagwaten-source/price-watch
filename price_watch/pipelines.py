@@ -12,3 +12,4 @@ class PostgresPipeline:
 # guard against None in the geocode lookup
 # write a JSONL feed for downstream consumers
 # export to Parquet alongside CSV
+# memoise geocode results to cut API calls
