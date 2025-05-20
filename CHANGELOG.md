@@ -92,3 +92,4 @@ All notable changes to price-watch.
 - tidy imports
 - type-annotate the parsing layer
 - persist storage state to skip the re-login
+- connection-pool the httpx client
