@@ -93,3 +93,4 @@ All notable changes to price-watch.
 - type-annotate the parsing layer
 - persist storage state to skip the re-login
 - connection-pool the httpx client
+- decode gzip responses that lack the header
