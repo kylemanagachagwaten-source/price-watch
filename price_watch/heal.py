@@ -17,3 +17,4 @@ def heal_selector(html, field):
 # cache healed selectors so it's one call, not per run
 # validate model-suggested selectors against the live DOM
 # back off the whole domain after repeated 429s
+# extract the heal loop into scrapekit.heal
