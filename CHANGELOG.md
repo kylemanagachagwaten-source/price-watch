@@ -94,3 +94,4 @@ All notable changes to price-watch.
 - persist storage state to skip the re-login
 - connection-pool the httpx client
 - decode gzip responses that lack the header
+- rotate the TLS fingerprint alongside the proxy
