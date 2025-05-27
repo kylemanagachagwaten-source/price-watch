@@ -24,3 +24,4 @@ class RotatingProxy:
 # share a cookie jar across spider requests
 # detect soft blocks (200 + captcha) and rotate identity
 # residential proxy rotation by region
+# add a token-bucket rate limiter per host
