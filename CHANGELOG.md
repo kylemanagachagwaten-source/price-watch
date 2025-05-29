@@ -95,3 +95,4 @@ All notable changes to price-watch.
 - connection-pool the httpx client
 - decode gzip responses that lack the header
 - rotate the TLS fingerprint alongside the proxy
+- handle empty result pages without erroring
