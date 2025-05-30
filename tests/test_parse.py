@@ -47,3 +47,5 @@ def test_handles_garbage():
 # stabilise a flaky test
 
 # stabilise a flaky test
+
+# add a smoke test for the spider entrypoint
