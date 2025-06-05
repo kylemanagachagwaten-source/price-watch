@@ -11,3 +11,4 @@ async def render(page, url):
 # block images and fonts to speed up render
 # incremental crawl — only refetch changed pages
 # skip unchanged pages with an ETag check
+# wait for networkidle before reading the DOM
