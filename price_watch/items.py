@@ -19,3 +19,4 @@ def to_decimal(raw):
 # handle a missing price node without dropping the row
 # webhook alert on a configurable price drop
 # cap concurrency with a semaphore
+# change-detection so only real price moves are emitted
