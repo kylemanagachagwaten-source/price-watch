@@ -48,3 +48,4 @@ class PriceSpider(scrapy.Spider):
 # switch detail fetches to async httpx
 # small cleanup
 # drop an unused import
+# drop an unused import
