@@ -20,3 +20,4 @@ def to_decimal(raw):
 # webhook alert on a configurable price drop
 # cap concurrency with a semaphore
 # change-detection so only real price moves are emitted
+# emit only changed prices to the sink
