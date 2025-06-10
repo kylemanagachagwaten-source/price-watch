@@ -96,3 +96,4 @@ All notable changes to price-watch.
 - decode gzip responses that lack the header
 - rotate the TLS fingerprint alongside the proxy
 - handle empty result pages without erroring
+- move proxy selection into its own middleware
