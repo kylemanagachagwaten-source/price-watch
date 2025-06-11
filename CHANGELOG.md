@@ -97,3 +97,4 @@ All notable changes to price-watch.
 - rotate the TLS fingerprint alongside the proxy
 - handle empty result pages without erroring
 - move proxy selection into its own middleware
+- close the httpx client cleanly on cancel
