@@ -99,3 +99,4 @@ All notable changes to price-watch.
 - move proxy selection into its own middleware
 - close the httpx client cleanly on cancel
 - skip honeypot rows hidden with display:none
+- tidy imports
