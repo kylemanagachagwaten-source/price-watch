@@ -100,3 +100,4 @@ All notable changes to price-watch.
 - close the httpx client cleanly on cancel
 - skip honeypot rows hidden with display:none
 - tidy imports
+- load settings from env with sane defaults
