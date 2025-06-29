@@ -25,3 +25,4 @@ class RotatingProxy:
 # detect soft blocks (200 + captcha) and rotate identity
 # residential proxy rotation by region
 # add a token-bucket rate limiter per host
+# alert when the success rate drops below 90%
