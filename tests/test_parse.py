@@ -49,3 +49,5 @@ def test_handles_garbage():
 # stabilise a flaky test
 
 # add a smoke test for the spider entrypoint
+
+# cover retry/backoff with a mocked 429
