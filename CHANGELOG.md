@@ -101,3 +101,4 @@ All notable changes to price-watch.
 - skip honeypot rows hidden with display:none
 - tidy imports
 - load settings from env with sane defaults
+- strip currency symbols before Decimal conversion
