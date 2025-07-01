@@ -12,3 +12,4 @@ async def render(page, url):
 # incremental crawl — only refetch changed pages
 # skip unchanged pages with an ETag check
 # wait for networkidle before reading the DOM
+# cap parallel browser pages to avoid OOM
