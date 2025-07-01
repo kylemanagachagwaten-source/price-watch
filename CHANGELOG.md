@@ -102,3 +102,4 @@ All notable changes to price-watch.
 - tidy imports
 - load settings from env with sane defaults
 - strip currency symbols before Decimal conversion
+- remove dead code
