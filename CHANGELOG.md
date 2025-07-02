@@ -103,3 +103,4 @@ All notable changes to price-watch.
 - load settings from env with sane defaults
 - strip currency symbols before Decimal conversion
 - remove dead code
+- extract stock status alongside price
