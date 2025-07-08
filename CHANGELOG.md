@@ -104,3 +104,4 @@ All notable changes to price-watch.
 - strip currency symbols before Decimal conversion
 - remove dead code
 - extract stock status alongside price
+- drop an unused import
