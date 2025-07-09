@@ -13,3 +13,4 @@ async def render(page, url):
 # skip unchanged pages with an ETag check
 # wait for networkidle before reading the DOM
 # cap parallel browser pages to avoid OOM
+# reuse one browser context across pages
