@@ -26,3 +26,4 @@ class RotatingProxy:
 # residential proxy rotation by region
 # add a token-bucket rate limiter per host
 # alert when the success rate drops below 90%
+# stop reusing a proxy that just returned a block page
