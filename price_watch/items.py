@@ -21,3 +21,4 @@ def to_decimal(raw):
 # cap concurrency with a semaphore
 # change-detection so only real price moves are emitted
 # emit only changed prices to the sink
+# normalise SKUs to uppercase before dedupe
