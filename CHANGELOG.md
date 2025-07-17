@@ -106,3 +106,4 @@ All notable changes to price-watch.
 - extract stock status alongside price
 - drop an unused import
 - avoid double-scheduling overlapping runs
+- dedupe on sku, not on row index
