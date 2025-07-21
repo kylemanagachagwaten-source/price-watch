@@ -13,3 +13,4 @@ class PostgresPipeline:
 # write a JSONL feed for downstream consumers
 # export to Parquet alongside CSV
 # memoise geocode results to cut API calls
+# export to Parquet alongside CSV
