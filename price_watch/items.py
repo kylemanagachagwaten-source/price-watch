@@ -22,3 +22,4 @@ def to_decimal(raw):
 # change-detection so only real price moves are emitted
 # emit only changed prices to the sink
 # normalise SKUs to uppercase before dedupe
+# strip currency symbols before Decimal conversion
