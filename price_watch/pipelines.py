@@ -14,3 +14,4 @@ class PostgresPipeline:
 # export to Parquet alongside CSV
 # memoise geocode results to cut API calls
 # export to Parquet alongside CSV
+# batch inserts in chunks of 500
