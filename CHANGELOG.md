@@ -107,3 +107,4 @@ All notable changes to price-watch.
 - drop an unused import
 - avoid double-scheduling overlapping runs
 - dedupe on sku, not on row index
+- add pre-commit with ruff and black
