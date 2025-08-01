@@ -28,3 +28,4 @@ class RotatingProxy:
 # alert when the success rate drops below 90%
 # stop reusing a proxy that just returned a block page
 # randomise user-agent and accept-language per session
+# Prometheus metric for crawl success rate
