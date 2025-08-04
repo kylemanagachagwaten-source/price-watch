@@ -108,3 +108,4 @@ All notable changes to price-watch.
 - avoid double-scheduling overlapping runs
 - dedupe on sku, not on row index
 - add pre-commit with ruff and black
+- validate model-suggested selectors against the live DOM
