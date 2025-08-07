@@ -15,3 +15,4 @@ class PostgresPipeline:
 # memoise geocode results to cut API calls
 # export to Parquet alongside CSV
 # batch inserts in chunks of 500
+# stream rows to disk instead of buffering
