@@ -54,3 +54,4 @@ class PriceSpider(scrapy.Spider):
 # retire proxies after three consecutive timeouts
 # apply black formatting
 # drop an unused import
+# small cleanup
