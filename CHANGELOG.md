@@ -111,3 +111,4 @@ All notable changes to price-watch.
 - validate model-suggested selectors against the live DOM
 - refresh cookies before they expire mid-crawl
 - parse unicode and comma thousands separators
+- weight proxy selection by recent success rate
