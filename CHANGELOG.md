@@ -110,3 +110,4 @@ All notable changes to price-watch.
 - add pre-commit with ruff and black
 - validate model-suggested selectors against the live DOM
 - refresh cookies before they expire mid-crawl
+- parse unicode and comma thousands separators
