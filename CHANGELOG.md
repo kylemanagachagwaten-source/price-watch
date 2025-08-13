@@ -112,3 +112,4 @@ All notable changes to price-watch.
 - refresh cookies before they expire mid-crawl
 - parse unicode and comma thousands separators
 - weight proxy selection by recent success rate
+- reuse proxy TLS sessions to cut handshake overhead
