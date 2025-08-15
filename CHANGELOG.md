@@ -113,3 +113,4 @@ All notable changes to price-watch.
 - parse unicode and comma thousands separators
 - weight proxy selection by recent success rate
 - reuse proxy TLS sessions to cut handshake overhead
+- small cleanup
