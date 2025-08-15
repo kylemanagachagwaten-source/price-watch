@@ -114,3 +114,4 @@ All notable changes to price-watch.
 - weight proxy selection by recent success rate
 - reuse proxy TLS sessions to cut handshake overhead
 - small cleanup
+- drop an unused import
