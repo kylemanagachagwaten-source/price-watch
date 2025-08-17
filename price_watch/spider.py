@@ -56,3 +56,4 @@ class PriceSpider(scrapy.Spider):
 # drop an unused import
 # small cleanup
 # tidy imports
+# drop an unused import
