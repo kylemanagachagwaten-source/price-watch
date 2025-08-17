@@ -57,3 +57,4 @@ class PriceSpider(scrapy.Spider):
 # small cleanup
 # tidy imports
 # drop an unused import
+# remove dead code
