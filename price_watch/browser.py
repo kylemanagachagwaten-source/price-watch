@@ -14,3 +14,4 @@ async def render(page, url):
 # wait for networkidle before reading the DOM
 # cap parallel browser pages to avoid OOM
 # reuse one browser context across pages
+# block images and fonts to speed up render
