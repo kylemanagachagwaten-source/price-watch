@@ -58,3 +58,4 @@ class PriceSpider(scrapy.Spider):
 # tidy imports
 # drop an unused import
 # remove dead code
+# cap retries so a hard block stops spinning
