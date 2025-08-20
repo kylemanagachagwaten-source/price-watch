@@ -16,3 +16,4 @@ class PostgresPipeline:
 # export to Parquet alongside CSV
 # batch inserts in chunks of 500
 # stream rows to disk instead of buffering
+# geocode listing addresses with a cached client
