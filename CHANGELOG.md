@@ -115,3 +115,4 @@ All notable changes to price-watch.
 - reuse proxy TLS sessions to cut handshake overhead
 - small cleanup
 - drop an unused import
+- cache healed selectors so it's one call, not per run
