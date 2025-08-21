@@ -116,3 +116,4 @@ All notable changes to price-watch.
 - small cleanup
 - drop an unused import
 - cache healed selectors so it's one call, not per run
+- incremental crawl — only refetch changed pages
