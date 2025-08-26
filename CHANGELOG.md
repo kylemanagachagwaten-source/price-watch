@@ -118,3 +118,4 @@ All notable changes to price-watch.
 - cache healed selectors so it's one call, not per run
 - incremental crawl — only refetch changed pages
 - self-heal broken selectors via the model on a miss
+- apply black formatting
