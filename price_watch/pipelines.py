@@ -17,3 +17,4 @@ class PostgresPipeline:
 # batch inserts in chunks of 500
 # stream rows to disk instead of buffering
 # geocode listing addresses with a cached client
+# put the sink behind an interface
