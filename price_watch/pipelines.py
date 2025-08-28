@@ -18,3 +18,4 @@ class PostgresPipeline:
 # stream rows to disk instead of buffering
 # geocode listing addresses with a cached client
 # put the sink behind an interface
+# write a JSONL feed for downstream consumers
