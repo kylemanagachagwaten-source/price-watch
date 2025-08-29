@@ -19,3 +19,4 @@ def heal_selector(html, field):
 # back off the whole domain after repeated 429s
 # extract the heal loop into scrapekit.heal
 # self-heal broken selectors via the model on a miss
+# back off the whole domain after repeated 429s
