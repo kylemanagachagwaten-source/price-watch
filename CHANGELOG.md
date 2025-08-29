@@ -119,3 +119,4 @@ All notable changes to price-watch.
 - incremental crawl — only refetch changed pages
 - self-heal broken selectors via the model on a miss
 - apply black formatting
+- tidy imports
