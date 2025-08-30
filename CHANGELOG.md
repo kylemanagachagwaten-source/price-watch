@@ -120,3 +120,4 @@ All notable changes to price-watch.
 - self-heal broken selectors via the model on a miss
 - apply black formatting
 - tidy imports
+- wait for networkidle before reading the DOM
