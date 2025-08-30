@@ -15,3 +15,4 @@ async def render(page, url):
 # cap parallel browser pages to avoid OOM
 # reuse one browser context across pages
 # block images and fonts to speed up render
+# handle pagination that loops back to page 1
