@@ -121,3 +121,4 @@ All notable changes to price-watch.
 - apply black formatting
 - tidy imports
 - wait for networkidle before reading the DOM
+- open a PR with the healed selector and a regression test
