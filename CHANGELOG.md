@@ -123,3 +123,4 @@ All notable changes to price-watch.
 - wait for networkidle before reading the DOM
 - open a PR with the healed selector and a regression test
 - rotate the TLS fingerprint alongside the proxy
+- cron-style scheduler for per-site intervals
