@@ -1,5 +1,5 @@
 scrapy>=2.13
-playwright>=1.48
+playwright>=1.49
 httpx>=0.29
 psycopg[binary]>=3.5
 beautifulsoup4>=4.13
