@@ -57,3 +57,5 @@ def test_handles_garbage():
 # cover the cloudflare challenge path
 
 # stabilise a flaky test
+
+# add a regression for the unicode price bug
