@@ -124,3 +124,4 @@ All notable changes to price-watch.
 - open a PR with the healed selector and a regression test
 - rotate the TLS fingerprint alongside the proxy
 - cron-style scheduler for per-site intervals
+- apply black formatting
