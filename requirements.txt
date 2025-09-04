@@ -1,4 +1,4 @@
-scrapy>=2.13
+scrapy>=2.14
 playwright>=1.49
 httpx>=0.29
 psycopg[binary]>=3.5
