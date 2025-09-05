@@ -30,3 +30,4 @@ class RotatingProxy:
 # randomise user-agent and accept-language per session
 # Prometheus metric for crawl success rate
 # assign a sticky proxy per domain to keep sessions warm
+# respect the Retry-After header when present
