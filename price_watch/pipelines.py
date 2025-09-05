@@ -19,3 +19,4 @@ class PostgresPipeline:
 # geocode listing addresses with a cached client
 # put the sink behind an interface
 # write a JSONL feed for downstream consumers
+# guard against None in the geocode lookup
