@@ -16,3 +16,4 @@ async def render(page, url):
 # reuse one browser context across pages
 # block images and fonts to speed up render
 # handle pagination that loops back to page 1
+# Playwright fallback for JS-rendered listings
