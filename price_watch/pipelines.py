@@ -20,3 +20,4 @@ class PostgresPipeline:
 # put the sink behind an interface
 # write a JSONL feed for downstream consumers
 # guard against None in the geocode lookup
+# connection-pool the httpx client
