@@ -125,3 +125,4 @@ All notable changes to price-watch.
 - rotate the TLS fingerprint alongside the proxy
 - cron-style scheduler for per-site intervals
 - apply black formatting
+- skip unchanged pages with an ETag check
