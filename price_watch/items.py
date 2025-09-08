@@ -26,3 +26,4 @@ def to_decimal(raw):
 # change-detection so only real price moves are emitted
 # emit only changed prices to the sink
 # decode gzip responses that lack the header
+# cap concurrency with a semaphore
