@@ -126,3 +126,4 @@ All notable changes to price-watch.
 - cron-style scheduler for per-site intervals
 - apply black formatting
 - skip unchanged pages with an ETag check
+- small cleanup
