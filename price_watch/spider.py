@@ -62,3 +62,4 @@ class PriceSpider(scrapy.Spider):
 # update the changelog
 # apply black formatting
 # switch detail fetches to async httpx
+# retire proxies after three consecutive timeouts
