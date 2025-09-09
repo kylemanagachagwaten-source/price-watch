@@ -31,3 +31,4 @@ class RotatingProxy:
 # Prometheus metric for crawl success rate
 # assign a sticky proxy per domain to keep sessions warm
 # respect the Retry-After header when present
+# stop reusing a proxy that just returned a block page
