@@ -32,3 +32,4 @@ class RotatingProxy:
 # assign a sticky proxy per domain to keep sessions warm
 # respect the Retry-After header when present
 # stop reusing a proxy that just returned a block page
+# alert when the success rate drops below 90%
