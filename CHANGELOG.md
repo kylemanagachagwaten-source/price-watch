@@ -129,3 +129,4 @@ All notable changes to price-watch.
 - small cleanup
 - flush the writer on shutdown so no rows are lost
 - handle a missing price node without dropping the row
+- normalise SKUs to uppercase before dedupe
