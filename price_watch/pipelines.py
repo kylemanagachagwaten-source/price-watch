@@ -21,3 +21,4 @@ class PostgresPipeline:
 # write a JSONL feed for downstream consumers
 # guard against None in the geocode lookup
 # connection-pool the httpx client
+# use a connection pool instead of per-item connects
