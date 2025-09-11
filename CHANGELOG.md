@@ -128,3 +128,4 @@ All notable changes to price-watch.
 - skip unchanged pages with an ETag check
 - small cleanup
 - flush the writer on shutdown so no rows are lost
+- handle a missing price node without dropping the row
