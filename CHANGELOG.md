@@ -131,3 +131,4 @@ All notable changes to price-watch.
 - handle a missing price node without dropping the row
 - normalise SKUs to uppercase before dedupe
 - self-heal broken selectors via the model on a miss
+- move proxy selection into its own middleware
