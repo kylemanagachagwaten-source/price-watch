@@ -64,3 +64,4 @@ class PriceSpider(scrapy.Spider):
 # switch detail fetches to async httpx
 # retire proxies after three consecutive timeouts
 # small cleanup
+# close the httpx client cleanly on cancel
