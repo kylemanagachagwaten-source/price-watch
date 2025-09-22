@@ -45,3 +45,4 @@ residential proxy rotation, change-detection alerts. ~2,000 SKUs across 5 retail
 - fix a typo in the README
 - document the proxy pool env vars
 - add a troubleshooting section for 403s
+- fix a typo in the README
