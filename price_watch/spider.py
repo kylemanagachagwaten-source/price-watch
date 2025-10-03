@@ -65,3 +65,4 @@ class PriceSpider(scrapy.Spider):
 # retire proxies after three consecutive timeouts
 # small cleanup
 # close the httpx client cleanly on cancel
+# make a run idempotent when re-executed
