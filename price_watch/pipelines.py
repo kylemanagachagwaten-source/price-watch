@@ -22,3 +22,4 @@ class PostgresPipeline:
 # guard against None in the geocode lookup
 # connection-pool the httpx client
 # use a connection pool instead of per-item connects
+# memoise geocode results to cut API calls
