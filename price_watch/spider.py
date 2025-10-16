@@ -66,3 +66,4 @@ class PriceSpider(scrapy.Spider):
 # small cleanup
 # close the httpx client cleanly on cancel
 # make a run idempotent when re-executed
+# load settings from env with sane defaults
