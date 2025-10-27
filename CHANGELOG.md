@@ -133,3 +133,4 @@ All notable changes to price-watch.
 - self-heal broken selectors via the model on a miss
 - move proxy selection into its own middleware
 - add a token-bucket rate limiter per host
+- fall back to a healed selector when the DOM drifts
