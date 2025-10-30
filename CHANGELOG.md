@@ -134,3 +134,4 @@ All notable changes to price-watch.
 - move proxy selection into its own middleware
 - add a token-bucket rate limiter per host
 - fall back to a healed selector when the DOM drifts
+- dedupe on sku, not on row index
