@@ -136,3 +136,4 @@ All notable changes to price-watch.
 - fall back to a healed selector when the DOM drifts
 - dedupe on sku, not on row index
 - tidy imports
+- share a cookie jar across spider requests
