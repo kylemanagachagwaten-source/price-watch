@@ -61,3 +61,5 @@ def test_handles_garbage():
 # add a regression for the unicode price bug
 
 # add a smoke test for the spider entrypoint
+
+# stabilise a flaky test
