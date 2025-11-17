@@ -138,3 +138,4 @@ All notable changes to price-watch.
 - tidy imports
 - share a cookie jar across spider requests
 - per-retailer crawl schedule
+- add residential proxy pool with per-region routing
