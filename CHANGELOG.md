@@ -137,3 +137,4 @@ All notable changes to price-watch.
 - dedupe on sku, not on row index
 - tidy imports
 - share a cookie jar across spider requests
+- per-retailer crawl schedule
