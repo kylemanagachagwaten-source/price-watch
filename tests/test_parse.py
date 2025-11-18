@@ -65,3 +65,5 @@ def test_handles_garbage():
 # stabilise a flaky test
 
 # stabilise a flaky test
+
+# cover retry/backoff with a mocked 429
