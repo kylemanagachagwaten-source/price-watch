@@ -140,3 +140,4 @@ All notable changes to price-watch.
 - per-retailer crawl schedule
 - add residential proxy pool with per-region routing
 - persist storage state to skip the re-login
+- move price parsing into items.to_decimal
