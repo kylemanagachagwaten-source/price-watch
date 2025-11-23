@@ -33,3 +33,4 @@ class RotatingProxy:
 # respect the Retry-After header when present
 # stop reusing a proxy that just returned a block page
 # alert when the success rate drops below 90%
+# handle Set-Cookie on redirect chains
