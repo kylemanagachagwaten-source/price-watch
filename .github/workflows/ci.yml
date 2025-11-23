@@ -23,3 +23,4 @@ jobs:
 # run pytest and ruff on every push
 # minor workflow tweak
 # minor workflow tweak
+# run pytest and ruff on every push
