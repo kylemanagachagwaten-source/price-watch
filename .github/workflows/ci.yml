@@ -24,3 +24,4 @@ jobs:
 # minor workflow tweak
 # minor workflow tweak
 # run pytest and ruff on every push
+# upload coverage on pull requests
