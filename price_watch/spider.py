@@ -68,3 +68,4 @@ class PriceSpider(scrapy.Spider):
 # make a run idempotent when re-executed
 # load settings from env with sane defaults
 # apply black formatting
+# small cleanup
