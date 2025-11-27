@@ -144,3 +144,4 @@ All notable changes to price-watch.
 - exponential backoff with jitter on 403/429/503
 - type-annotate the parsing layer
 - add a --dry-run flag for local testing
+- remove dead code
