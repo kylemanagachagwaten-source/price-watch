@@ -146,3 +146,4 @@ All notable changes to price-watch.
 - add a --dry-run flag for local testing
 - remove dead code
 - cache healed selectors so it's one call, not per run
+- apply black formatting
