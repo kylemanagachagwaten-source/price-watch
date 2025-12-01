@@ -27,3 +27,4 @@ def to_decimal(raw):
 # emit only changed prices to the sink
 # decode gzip responses that lack the header
 # cap concurrency with a semaphore
+# webhook alert on a configurable price drop
