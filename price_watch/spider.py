@@ -69,3 +69,4 @@ class PriceSpider(scrapy.Spider):
 # load settings from env with sane defaults
 # apply black formatting
 # small cleanup
+# tidy imports
