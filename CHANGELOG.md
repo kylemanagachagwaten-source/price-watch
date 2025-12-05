@@ -147,3 +147,4 @@ All notable changes to price-watch.
 - remove dead code
 - cache healed selectors so it's one call, not per run
 - apply black formatting
+- detect soft blocks (200 + captcha) and rotate identity
