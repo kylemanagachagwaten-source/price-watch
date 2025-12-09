@@ -148,3 +148,4 @@ All notable changes to price-watch.
 - cache healed selectors so it's one call, not per run
 - apply black formatting
 - detect soft blocks (200 + captcha) and rotate identity
+- split the pipeline into validate/normalise/store
