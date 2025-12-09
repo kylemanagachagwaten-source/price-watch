@@ -35,3 +35,4 @@ class RotatingProxy:
 # alert when the success rate drops below 90%
 # handle Set-Cookie on redirect chains
 # rotate proxy on 429 instead of failing the whole batch
+# count soft-blocks separately from hard failures
