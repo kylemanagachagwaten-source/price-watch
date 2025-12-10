@@ -69,3 +69,5 @@ def test_handles_garbage():
 # cover retry/backoff with a mocked 429
 
 # add fixtures for two more retailers
+
+# stabilise a flaky test
