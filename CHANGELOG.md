@@ -149,3 +149,4 @@ All notable changes to price-watch.
 - apply black formatting
 - detect soft blocks (200 + captcha) and rotate identity
 - split the pipeline into validate/normalise/store
+- cap parallel browser pages to avoid OOM
