@@ -150,3 +150,4 @@ All notable changes to price-watch.
 - detect soft blocks (200 + captcha) and rotate identity
 - split the pipeline into validate/normalise/store
 - cap parallel browser pages to avoid OOM
+- structured JSON logging with a per-run id
