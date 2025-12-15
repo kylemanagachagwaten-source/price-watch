@@ -28,3 +28,4 @@ def to_decimal(raw):
 # decode gzip responses that lack the header
 # cap concurrency with a semaphore
 # webhook alert on a configurable price drop
+# upsert prices on sku with a price-history row
