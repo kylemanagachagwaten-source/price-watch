@@ -152,3 +152,4 @@ All notable changes to price-watch.
 - cap parallel browser pages to avoid OOM
 - structured JSON logging with a per-run id
 - apply black formatting
+- apply black formatting
