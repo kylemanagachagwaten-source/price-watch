@@ -153,3 +153,4 @@ All notable changes to price-watch.
 - structured JSON logging with a per-run id
 - apply black formatting
 - apply black formatting
+- daily digest of the biggest movers
