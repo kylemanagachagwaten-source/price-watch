@@ -71,3 +71,4 @@ class PriceSpider(scrapy.Spider):
 # small cleanup
 # tidy imports
 # avoid double-scheduling overlapping runs
+# apply black formatting
