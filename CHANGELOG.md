@@ -156,3 +156,4 @@ All notable changes to price-watch.
 - daily digest of the biggest movers
 - rotate proxy on 429 instead of failing the whole batch
 - handle empty result pages without erroring
+- small cleanup
