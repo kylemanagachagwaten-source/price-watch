@@ -157,3 +157,4 @@ All notable changes to price-watch.
 - rotate proxy on 429 instead of failing the whole batch
 - handle empty result pages without erroring
 - small cleanup
+- tidy imports
