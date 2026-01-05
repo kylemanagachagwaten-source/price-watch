@@ -158,3 +158,4 @@ All notable changes to price-watch.
 - handle empty result pages without erroring
 - small cleanup
 - tidy imports
+- tidy imports
