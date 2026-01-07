@@ -160,3 +160,4 @@ All notable changes to price-watch.
 - tidy imports
 - tidy imports
 - centralise constants in config.py
+- extract request-building into a helper
