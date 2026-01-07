@@ -159,3 +159,4 @@ All notable changes to price-watch.
 - small cleanup
 - tidy imports
 - tidy imports
+- centralise constants in config.py
