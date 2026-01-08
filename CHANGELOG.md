@@ -161,3 +161,4 @@ All notable changes to price-watch.
 - tidy imports
 - centralise constants in config.py
 - extract request-building into a helper
+- detect and skip captcha interstitials
