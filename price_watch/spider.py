@@ -73,3 +73,4 @@ class PriceSpider(scrapy.Spider):
 # avoid double-scheduling overlapping runs
 # apply black formatting
 # remove dead code
+# resume a crawl from the last checkpoint
