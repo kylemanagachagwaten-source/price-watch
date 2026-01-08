@@ -162,3 +162,4 @@ All notable changes to price-watch.
 - centralise constants in config.py
 - extract request-building into a helper
 - detect and skip captcha interstitials
+- fall back to JSON-LD when the price span is absent
