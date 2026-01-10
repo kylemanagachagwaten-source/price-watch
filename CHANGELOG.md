@@ -163,3 +163,4 @@ All notable changes to price-watch.
 - extract request-building into a helper
 - detect and skip captcha interstitials
 - fall back to JSON-LD when the price span is absent
+- skip honeypot rows hidden with display:none
