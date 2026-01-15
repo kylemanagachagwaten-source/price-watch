@@ -37,3 +37,4 @@ class RotatingProxy:
 # rotate proxy on 429 instead of failing the whole batch
 # count soft-blocks separately from hard failures
 # Prometheus metric for crawl success rate
+# alert when the success rate drops below 90%
