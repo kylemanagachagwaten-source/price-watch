@@ -74,3 +74,4 @@ class PriceSpider(scrapy.Spider):
 # apply black formatting
 # remove dead code
 # resume a crawl from the last checkpoint
+# drop an unused import
