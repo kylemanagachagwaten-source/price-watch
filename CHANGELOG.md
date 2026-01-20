@@ -164,3 +164,4 @@ All notable changes to price-watch.
 - detect and skip captcha interstitials
 - fall back to JSON-LD when the price span is absent
 - skip honeypot rows hidden with display:none
+- change-detection so only real price moves are emitted
