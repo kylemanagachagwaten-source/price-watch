@@ -76,3 +76,4 @@ class PriceSpider(scrapy.Spider):
 # resume a crawl from the last checkpoint
 # drop an unused import
 # small cleanup
+# small cleanup
