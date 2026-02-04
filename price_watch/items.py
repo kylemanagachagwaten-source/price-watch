@@ -31,3 +31,4 @@ def to_decimal(raw):
 # upsert prices on sku with a price-history row
 # extract stock status alongside price
 # debounce alerts so a flapping price doesn't spam
+# extract stock status alongside price
