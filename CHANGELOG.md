@@ -165,3 +165,4 @@ All notable changes to price-watch.
 - fall back to JSON-LD when the price span is absent
 - skip honeypot rows hidden with display:none
 - change-detection so only real price moves are emitted
+- respect the Retry-After header when present
