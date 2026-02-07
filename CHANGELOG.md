@@ -168,3 +168,4 @@ All notable changes to price-watch.
 - respect the Retry-After header when present
 - small cleanup
 - rotate the TLS fingerprint alongside the proxy
+- split the pipeline into validate/normalise/store
