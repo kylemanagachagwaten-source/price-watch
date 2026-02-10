@@ -77,3 +77,4 @@ class PriceSpider(scrapy.Spider):
 # drop an unused import
 # small cleanup
 # small cleanup
+# apply black formatting
