@@ -170,3 +170,4 @@ All notable changes to price-watch.
 - rotate the TLS fingerprint alongside the proxy
 - split the pipeline into validate/normalise/store
 - debounce alerts so a flapping price doesn't spam
+- back off the whole domain after repeated 429s
