@@ -18,3 +18,4 @@ async def render(page, url):
 # handle pagination that loops back to page 1
 # Playwright fallback for JS-rendered listings
 # reuse one browser context across pages
+# reuse one browser context across pages
