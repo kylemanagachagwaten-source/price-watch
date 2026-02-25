@@ -171,3 +171,4 @@ All notable changes to price-watch.
 - split the pipeline into validate/normalise/store
 - debounce alerts so a flapping price doesn't spam
 - back off the whole domain after repeated 429s
+- daily digest of the biggest movers
