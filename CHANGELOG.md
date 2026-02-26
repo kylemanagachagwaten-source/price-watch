@@ -172,3 +172,4 @@ All notable changes to price-watch.
 - debounce alerts so a flapping price doesn't spam
 - back off the whole domain after repeated 429s
 - daily digest of the biggest movers
+- remove dead code
