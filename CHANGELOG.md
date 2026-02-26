@@ -173,3 +173,4 @@ All notable changes to price-watch.
 - back off the whole domain after repeated 429s
 - daily digest of the biggest movers
 - remove dead code
+- open a PR with the healed selector and a regression test
