@@ -32,3 +32,4 @@ def to_decimal(raw):
 # extract stock status alongside price
 # debounce alerts so a flapping price doesn't spam
 # extract stock status alongside price
+# split the engine into fetch / parse / sink layers
