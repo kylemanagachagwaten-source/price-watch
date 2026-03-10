@@ -82,3 +82,4 @@ class PriceSpider(scrapy.Spider):
 # per-retailer crawl schedule
 # structured JSON logging with a per-run id
 # remove dead code
+# tidy imports
