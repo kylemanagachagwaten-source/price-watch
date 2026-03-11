@@ -174,3 +174,4 @@ All notable changes to price-watch.
 - daily digest of the biggest movers
 - remove dead code
 - open a PR with the healed selector and a regression test
+- exponential backoff with jitter on 403/429/503
