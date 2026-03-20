@@ -55,3 +55,4 @@ residential proxy rotation, change-detection alerts. ~2,000 SKUs across 5 retail
 - clarify a comment
 - clarify a comment
 - add a troubleshooting section for 403s
+- clarify a comment
