@@ -177,3 +177,4 @@ All notable changes to price-watch.
 - exponential backoff with jitter on 403/429/503
 - drop an unused import
 - wait for networkidle before reading the DOM
+- decode gzip responses that lack the header
