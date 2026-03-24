@@ -83,3 +83,4 @@ class PriceSpider(scrapy.Spider):
 # structured JSON logging with a per-run id
 # remove dead code
 # tidy imports
+# resume a crawl from the last checkpoint
