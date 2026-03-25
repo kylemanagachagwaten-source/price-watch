@@ -85,3 +85,4 @@ class PriceSpider(scrapy.Spider):
 # tidy imports
 # resume a crawl from the last checkpoint
 # update the changelog
+# apply black formatting
