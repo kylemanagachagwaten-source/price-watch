@@ -84,3 +84,4 @@ class PriceSpider(scrapy.Spider):
 # remove dead code
 # tidy imports
 # resume a crawl from the last checkpoint
+# update the changelog
