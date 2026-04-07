@@ -23,3 +23,4 @@ def heal_selector(html, field):
 # extract the heal loop into scrapekit.heal
 # fall back to the last-known-good selector on heal failure
 # open a PR with the healed selector and a regression test
+# fall back to the last-known-good selector on heal failure
