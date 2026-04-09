@@ -179,3 +179,4 @@ All notable changes to price-watch.
 - wait for networkidle before reading the DOM
 - decode gzip responses that lack the header
 - drop an unused import
+- Prometheus metric for crawl success rate
