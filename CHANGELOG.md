@@ -181,3 +181,4 @@ All notable changes to price-watch.
 - drop an unused import
 - Prometheus metric for crawl success rate
 - flush the writer on shutdown so no rows are lost
+- rotate proxy on 429 instead of failing the whole batch
