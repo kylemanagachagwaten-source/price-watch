@@ -180,3 +180,4 @@ All notable changes to price-watch.
 - decode gzip responses that lack the header
 - drop an unused import
 - Prometheus metric for crawl success rate
+- flush the writer on shutdown so no rows are lost
