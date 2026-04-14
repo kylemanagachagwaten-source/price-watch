@@ -33,3 +33,4 @@ def to_decimal(raw):
 # debounce alerts so a flapping price doesn't spam
 # extract stock status alongside price
 # split the engine into fetch / parse / sink layers
+# dedupe on sku, not on row index
