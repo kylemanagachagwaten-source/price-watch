@@ -183,3 +183,4 @@ All notable changes to price-watch.
 - flush the writer on shutdown so no rows are lost
 - rotate proxy on 429 instead of failing the whole batch
 - tidy imports
+- centralise constants in config.py
