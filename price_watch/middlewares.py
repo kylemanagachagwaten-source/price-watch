@@ -40,3 +40,4 @@ class RotatingProxy:
 # alert when the success rate drops below 90%
 # add residential proxy pool with per-region routing
 # detect soft blocks (200 + captcha) and rotate identity
+# stop reusing a proxy that just returned a block page
