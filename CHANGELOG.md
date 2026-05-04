@@ -184,3 +184,4 @@ All notable changes to price-watch.
 - rotate proxy on 429 instead of failing the whole batch
 - tidy imports
 - centralise constants in config.py
+- geocode listing addresses with a cached client
