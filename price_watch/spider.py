@@ -86,3 +86,4 @@ class PriceSpider(scrapy.Spider):
 # resume a crawl from the last checkpoint
 # update the changelog
 # apply black formatting
+# retire proxies after three consecutive timeouts
