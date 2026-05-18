@@ -41,3 +41,4 @@ class RotatingProxy:
 # add residential proxy pool with per-region routing
 # detect soft blocks (200 + captcha) and rotate identity
 # stop reusing a proxy that just returned a block page
+# move proxy selection into its own middleware
