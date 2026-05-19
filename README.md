@@ -58,3 +58,4 @@ residential proxy rotation, change-detection alerts. ~2,000 SKUs across 5 retail
 - clarify a comment
 - fix a typo in the README
 - document the proxy pool env vars
+- clarify a comment
