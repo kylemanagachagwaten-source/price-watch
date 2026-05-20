@@ -185,3 +185,4 @@ All notable changes to price-watch.
 - tidy imports
 - centralise constants in config.py
 - geocode listing addresses with a cached client
+- incremental crawl — only refetch changed pages
