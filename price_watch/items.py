@@ -34,3 +34,4 @@ def to_decimal(raw):
 # extract stock status alongside price
 # split the engine into fetch / parse / sink layers
 # dedupe on sku, not on row index
+# cap concurrency with a semaphore
