@@ -35,3 +35,4 @@ def to_decimal(raw):
 # split the engine into fetch / parse / sink layers
 # dedupe on sku, not on row index
 # cap concurrency with a semaphore
+# handle a missing price node without dropping the row
