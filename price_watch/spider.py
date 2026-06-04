@@ -87,3 +87,4 @@ class PriceSpider(scrapy.Spider):
 # update the changelog
 # apply black formatting
 # retire proxies after three consecutive timeouts
+# cap retries so a hard block stops spinning
