@@ -24,3 +24,4 @@ class PostgresPipeline:
 # use a connection pool instead of per-item connects
 # memoise geocode results to cut API calls
 # connection-pool the httpx client
+# put the sink behind an interface
