@@ -1,6 +1,6 @@
 scrapy>=2.14
 playwright>=1.51
 httpx>=0.31
-psycopg[binary]>=3.8
+psycopg[binary]>=3.9
 beautifulsoup4>=4.15
 prometheus-client>=0.23
