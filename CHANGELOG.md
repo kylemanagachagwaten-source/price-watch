@@ -187,3 +187,4 @@ All notable changes to price-watch.
 - geocode listing addresses with a cached client
 - incremental crawl — only refetch changed pages
 - update the changelog
+- validate model-suggested selectors against the live DOM
