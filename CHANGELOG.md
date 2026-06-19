@@ -188,3 +188,4 @@ All notable changes to price-watch.
 - incremental crawl — only refetch changed pages
 - update the changelog
 - validate model-suggested selectors against the live DOM
+- handle empty result pages without erroring
