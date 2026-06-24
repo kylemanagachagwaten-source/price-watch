@@ -36,3 +36,4 @@ def to_decimal(raw):
 # dedupe on sku, not on row index
 # cap concurrency with a semaphore
 # handle a missing price node without dropping the row
+# normalise SKUs to uppercase before dedupe
